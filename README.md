@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack AI engineer</h3>
 
 - 🔭 I’m currently working on **Full stack projects with AI/ML integrations.**
 
 - 🌱 I’m currently learning **about AI agents and devops**
-
-- 📫 How to reach me **jishmitha0305@gmail.com**
 
 - ⚡ Fun fact **My cat's name is Gluttonus maximus nomnomus lord bellyus the first :3**
 
