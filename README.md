@@ -14,19 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jishmitha!;" />
-</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi..+I'm+Jishmitha!;This+is..;my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
-- 🔭 I’m currently working on **Full stack projects with AI/ML integrations.**
 
-- 🌱 I’m currently learning **about AI agents and devops**
 
-- 📫 How to reach me **jishmitha0305@gmail.com**
 
-- ⚡ Fun fact **My cat's name is Gluttonus maximus nomnomus lord bellyus the first :3**
+
+
+
+
 
 
 
