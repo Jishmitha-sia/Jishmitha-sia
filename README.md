@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">About me:</h3>
-
 - 🔭 I’m currently working on **Full stack projects with AI/ML integrations.**
 
 - 🌱 I’m currently learning **about AI agents and devops**
@@ -42,5 +41,4 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Contributions:</h3>
-
 ![snake gif](https://github.com/Jishmitha-sia/Jishmitha-sia/blob/output/github-snake-dark.svg)
