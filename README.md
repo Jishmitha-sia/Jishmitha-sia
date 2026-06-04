@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Contributions:</h3>
+
 ![snake gif](https://github.com/Jishmitha-sia/Jishmitha-sia/blob/output/github-snake-dark.svg)
