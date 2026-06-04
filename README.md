@@ -42,17 +42,23 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">My Github Stats:</h3>
-
+<div align="center">
+    
 ![](https://github-readme-stats.shion.dev/api?username=Jishmitha-sia&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=Jishmitha-sia&theme=github_dark&hide_border=true)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jishmitha-sia&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 <h3 align="left">Contributions:</h3>
-
+<div align="center">
+    
 ![snake gif](https://github.com/Jishmitha-sia/Jishmitha-sia/blob/output/github-snake-dark.svg)
+
+</div>
